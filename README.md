@@ -57,8 +57,3 @@
             alt="python" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
-
-<p><img align="left" style="background-color: yellow;"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bhartendu33&show_icons=true&locale=en&layout=compact"
-        alt="bhartendu33" /></p>
-</p>
