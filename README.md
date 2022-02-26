@@ -21,9 +21,9 @@
         target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="https://stackoverflow.com/users/16207920/bhartendu-kumar" height="30" width="40" /></a>
-    <a href="https://instagram.com/_m_suraj" target="blank"><img align="center"
+    <a href="https://www.instagram.com/android__dev_/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_m_suraj" height="30" width="40" /></a>
+            alt="Bhartendu_kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
