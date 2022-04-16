@@ -1,4 +1,4 @@
-<img alt="DeveloperProfile" width="2000" height="200" src="https://media-exp1.licdn.com/dms/image/C5616AQFe1a3HBfjA7w/profile-displaybackgroundimage-shrink_350_1400/0/1634049645112?e=1649289600&v=beta&t=0Ap2OLltD8DeszotG4PQtsrOI4mcCbZxKLLPeMLR65Qhttps://www.linkedin.com/in/bhartendukodes/overlay/background-image/">
+<img alt="DeveloperProfile" width="2000" height="200" src="https://www.linkedin.com/in/bhartendukodes/overlay/background-image/">
 <h1 align="center">Hi 👋, I'm Bhartendu Kumar</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" >
