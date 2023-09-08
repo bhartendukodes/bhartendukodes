@@ -1,4 +1,4 @@
-<img alt="DeveloperProfile" width="2000" height="200" src="www.linkedin.com/in/bhartendukodes/overlay/background-image/">
+<img alt="DeveloperProfile" width="2000" height="200" src="www.linkedin.com/in/bhartendukodes/overlay/background-image">
 <h1 align="center">Hi 👋, I'm Bhartendu Kumar</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" >
