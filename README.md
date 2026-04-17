@@ -93,34 +93,6 @@
 
 ---
 
-<!-- Featured Projects -->
-## &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/bhartendukodes/Livinit-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=Livinit-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/bhartendukodes/Livinit-MainWeb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=Livinit-MainWeb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/bhartendukodes/Nectar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=Nectar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/bhartendukodes/task-assignment-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=task-assignment-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/bhartendukodes/HarvestEye">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=HarvestEye&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/bhartendukodes/NoteHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhartendukodes&repo=NoteHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
 <!-- Trophies -->
 ## &nbsp;GitHub Trophies
 
